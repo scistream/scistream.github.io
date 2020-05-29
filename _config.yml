@@ -1,12 +1,12 @@
 gems:
   - jekyll-seo-tag
-title: U.S. DOE AMASE Project
-description: Homepage of the Architecture and Management for Autonomic Science Ecosystems Project. 
-url: https://amaseproject.github.io/
+title: U.S. NSF SciStream Project
+description: Homepage of the Architecture and toolkit for data stream-ing between federated science instruments Project. 
+url: https://scistream.github.io
 social:
-  name: U.S. AMASE Project
+  name: U.S. NSF SciStream Project
   links:
-    - https://amaseproject.github.io/
+    - https://scistream.github.io
 show_downloads: false
 google_analytics:
 theme: 
