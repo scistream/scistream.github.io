@@ -26,7 +26,7 @@ Rajkumar Kettimuthu is a Computer Scientist at Mathematics and Computer Science 
 
 <img src="doc/zhengchun_liu.jpg" alt="Drawing" style="width: 100px;"/>
 
-Zhengchun Liu is a Research Scientist at the Computation Institute of the University of Chicago. He also holds a Joint Appointment at the Data Science and Learning division of Argonne National Laboratory. In this project, he develops end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
+Zhengchun Liu is an Assistant Computer Scientist at the Data Science and Learning division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at The University of Chicago. Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03.
 
 ---
 
