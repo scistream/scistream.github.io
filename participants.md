@@ -4,7 +4,7 @@ layout: default
 [Home](index.html) | [Papers](papers.html) | [Participants](participants.html) | [Resource](resource.html) | [News](news.html)
 
 # Participants
-This is a list of all AMASE participants (by __alphabetical__ order of last name). 
+This is a list of all SciStream participants (by __alphabetical__ order of last name). 
 
 ---
 
