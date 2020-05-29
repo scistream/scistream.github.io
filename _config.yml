@@ -9,4 +9,4 @@ social:
     - https://scistream.github.io
 show_downloads: false
 google_analytics:
-theme: 
+theme: jekyll-theme-cayman
