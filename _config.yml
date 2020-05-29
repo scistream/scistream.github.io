@@ -1,0 +1,12 @@
+gems:
+  - jekyll-seo-tag
+title: U.S. DOE AMASE Project
+description: Homepage of the Architecture and Management for Autonomic Science Ecosystems Project. 
+url: https://amaseproject.github.io/
+social:
+  name: U.S. AMASE Project
+  links:
+    - https://amaseproject.github.io/
+show_downloads: false
+google_analytics:
+theme: 
