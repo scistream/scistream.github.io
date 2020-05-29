@@ -1,1 +1,1 @@
-This is the repository of the U.S. DOE AMASE project page. https://amaseproject.github.io
+This is the repository of the U.S. NSF SciStream project page. https://scistream.github.io
