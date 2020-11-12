@@ -5,7 +5,7 @@ layout: default
 
 # About
 
-__SciStream__: _Architecture and toolkit for data stream-ing between federated science instruments_ project is fund by the U.S. National Science Foundation's CC* Integration-Large program. 
+__SciStream__: _Architecture and toolkit for data streaming between federated science instruments_ project is fund by the U.S. National Science Foundation's CC* Integration-Large program. 
 
 # Project Overview 
 Technological advancements enable scientific instruments to generate data at unprecedented rates. 
