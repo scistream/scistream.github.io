@@ -1,7 +1,7 @@
 gems:
   - jekyll-seo-tag
 title: U.S. NSF SciStream Project
-description: Homepage of the Architecture and toolkit for data stream-ing between federated science instruments Project. 
+description: Homepage of the Architecture and toolkit for data streaming between federated science instruments Project. 
 url: https://scistream.github.io
 social:
   name: U.S. NSF SciStream Project
